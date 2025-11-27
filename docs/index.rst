@@ -2,5 +2,5 @@
    :maxdepth: 2
    :caption: Spis Treści
 
-   pkt3
+   skladnia_dokumentu
    o_autorze
