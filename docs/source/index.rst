@@ -1,16 +1,10 @@
-Welcome to Projektu RTD!
+Strona glowna
 =======================
 
 Witaj w przykładowej dokumentacji.
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
 .. toctree::
 
+   index
    skladnia
    xyz
